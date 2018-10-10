@@ -4,8 +4,11 @@
     "name": "Mission Chinese Food",
     "neighborhood": "Manhattan",
     "photograph": "1.jpg",
-    "alt": "server waiting on group of people",
-    "address": "171 E Broadway, New York, NY 10002",
+    "alt": "server waiting on group of seated patrons",
+    "address": {
+      "street": "171 E Broadway",
+      "city_state_zipcode": "New York, NY 10002"
+    },
     "latlng": {
       "lat": 40.713829,
       "lng": -73.989667
@@ -45,7 +48,10 @@
     "neighborhood": "Brooklyn",
     "photograph": "2.jpg",
     "alt": "cheese pizza",
-    "address": "919 Fulton St, Brooklyn, NY 11238",
+    "address": {
+      "street": "919 Fulton St",
+      "city_state_zipcode": "Brooklyn, NY 11238"
+    },
     "latlng": {
       "lat": 40.683555,
       "lng": -73.966393
@@ -84,8 +90,11 @@
     "name": "Kang Ho Dong Baekjeong",
     "neighborhood": "Manhattan",
     "photograph": "3.jpg",
-    "alt": "empty restaurant",
-    "address": "1 E 32nd St, New York, NY 10016",
+    "alt": "empty chairs and benches",
+    "address": {
+      "street": "1 E 32nd St",
+      "city_state_zipcode": "New York, NY 10016"
+    },
     "latlng": {
       "lat": 40.747143,
       "lng": -73.985414
@@ -124,8 +133,11 @@
     "name": "Katz's Delicatessen",
     "neighborhood": "Manhattan",
     "photograph": "4.jpg",
-    "alt": "outside Katz's Delicatessen entrance",
-    "address": "205 E Houston St, New York, NY 10002",
+    "alt": "people walking outside entrance at night",
+    "address": {
+      "street": "205 E Houston St",
+      "city_state_zipcode": "New York, NY 10002"
+    },
     "latlng": {
       "lat": 40.722216,
       "lng": -73.987501
@@ -165,7 +177,10 @@
     "neighborhood": "Brooklyn",
     "photograph": "5.jpg",
     "alt": "people seated inside restaurant",
-    "address": "261 Moore St, Brooklyn, NY 11206",
+    "address": {
+      "street": "261 Moore St",
+      "city_state_zipcode": "Brooklyn, NY 11206"
+    },
     "latlng": {
       "lat": 40.705089,
       "lng": -73.933585
@@ -204,8 +219,11 @@
     "name": "Hometown BBQ",
     "neighborhood": "Brooklyn",
     "photograph": "6.jpg",
-    "alt": "restaurant full of seated people",
-    "address": "454 Van Brunt St, Brooklyn, NY 11231",
+    "alt": "line of patrons waiting to order and many seated patrons",
+    "address": {
+      "street": "454 Van Brunt St",
+      "city_state_zipcode": "Brooklyn, NY 11231"
+    },
     "latlng": {
       "lat": 40.674925,
       "lng": -74.016162
@@ -244,8 +262,11 @@
     "name": "Superiority Burger",
     "neighborhood": "Manhattan",
     "photograph": "7.jpg",
-    "alt": "two people walking dog outside burger shop",
-    "address": "430 E 9th St, New York, NY 10009",
+    "alt": "two people walking dog outside small burger shop",
+    "address": {
+      "street": "430 E 9th St",
+      "city_state_zipcode": "New York, NY 10009"
+    },
     "latlng": {
       "lat": 40.727397,
       "lng": -73.983645
@@ -285,7 +306,10 @@
     "neighborhood": "Manhattan",
     "photograph": "8.jpg",
     "alt": "the Dutch storefront sign",
-    "address": "131 Sullivan St, New York, NY 10012",
+    "address": {
+      "street": "131 Sullivan St",
+      "city_state_zipcode": "New York, NY 10012"
+    },
     "latlng": {
       "lat": 40.726584,
       "lng": -74.002082
@@ -324,8 +348,11 @@
     "name": "Mu Ramen",
     "neighborhood": "Queens",
     "photograph": "9.jpg",
-    "alt": "seated woman looking at cellphone",
-    "address": "1209 Jackson Ave, Queens, NY 11101",
+    "alt": "patrons eating with chopsticks and one looking at phone",
+    "address": {
+      "street": "1209 Jackson Ave",
+      "city_state_zipcode": "Queens, NY 11101"
+    },
     "latlng": {
       "lat": 40.743797,
       "lng": -73.950652
@@ -364,8 +391,11 @@
     "name": "Casa Enrique",
     "neighborhood": "Queens",
     "photograph": "10.jpg",
-    "alt": "empty restaurant",
-    "address": "5-48 49th Ave, Queens, NY 11101",
+    "alt": "after hours, empty restaurant",
+    "address": {
+      "street": "5-48 49th Ave",
+      "city_state_zipcode": "Queens, NY 11101"
+    },
     "latlng": {
       "lat": 40.743394,
       "lng": -73.954235
