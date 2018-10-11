@@ -174,9 +174,13 @@ createRestaurantHTML = (restaurant) => {
   neighborhood.innerHTML = restaurant.neighborhood;
   li.append(neighborhood);
 
-  const address = document.createElement('p');
-  address.innerHTML = restaurant.address;
-  li.append(address);
+  const street = document.createElement('p');
+  street.innerHTML = restaurant.address.street;
+  li.append(street);
+
+  const city_state_zipcode = document.createElement('p');
+  city_state_zipcode.innerHTML = restaurant.address.city_state_zipcode;
+  li.append(city_state_zipcode);
 
   const more = document.createElement('a');
   more.innerHTML = 'View Details';
