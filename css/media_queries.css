@@ -6,6 +6,7 @@
 }
 
 @media screen and (min-width: 620px) {
+   
    #restaurants-list {
        display: flex;
        flex-flow: row wrap;
@@ -17,12 +18,47 @@
        height: auto;
        width: 250px;
    }
+
+   #restaurant-img,
+   #restaurant-cuisine {
+        width: 60%;
+   }
+   #restaurant-image {
+        height: auto;
+   }
+
+   #restaurant-name {
+       font-size: 1.5em;
+   }
+
+   #restaurant-address,
+   #restaurant-hours td,
+   #reviews-list li p {
+       font-size: 1em;
+   }
+
+   #reviews-container {
+       margin: 0 auto;
+       width: 75%;
+   }
 }
 
 @media screen and (min-width: 810px) {
-    
+
 }
 
-@media screen and (min-width: 1400px) {
+@media screen and (min-width:1440px) {
+    #reviews-container {
+        margin: 0 auto;
+        width: 70%;
+    }
 
-}   
+    #restaurant-img,
+    #restaurant-cuisine {
+        width: 50%;
+    }
+    #restaurnt-img {
+        height: auto;
+    }
+
+}
