@@ -14,10 +14,10 @@ To run this app, you can clone or download the repository. In a terminal window,
 
  _python3 -m SimpleHTTPSERVER 8000_ (for Python version 3.x)
 
- 
 Then in your browser window, go to localhost:8000.
 
 This web application has been tested on Google Chrome and Firefox.
 
 ## Resources
-This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). 
+
+This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). Guidance from Doug Brown and Offline Cookbook, with service worker caching.
